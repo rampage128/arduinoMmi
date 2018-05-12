@@ -3,7 +3,6 @@
 
 #include "components/MmiButton.h"
 #include "components/MmiWheel.h"
-#include "components/MmiLight.h"
 
 class Mmi {
 public:
@@ -226,5 +225,7 @@ private:
     }
   }
 };
+
+#include "components/MmiLight.h"
 
 #endif

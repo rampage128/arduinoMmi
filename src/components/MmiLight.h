@@ -1,8 +1,6 @@
 #ifndef MMILIGHT_H
 #define MMILIGHT_H
 
-#include "../arduinoMmi.h"
-
 class MmiLight {
   public:
     MmiLight(uint8_t lightId, Mmi *mmi) {
