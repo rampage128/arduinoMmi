@@ -165,7 +165,7 @@ For more information, please refer to the [source](https://github.com/rampage128
 
 ## Contribute
 
-Feel free to [open an issue](https://github.com/rampage128/arduinoIO/issues) or submit a PR
+Feel free to [open an issue](https://github.com/rampage128/arduinoMmi/issues) or submit a PR
 
 Also, if you like this or other of my projects, please feel free to support me using the Link below.
 
